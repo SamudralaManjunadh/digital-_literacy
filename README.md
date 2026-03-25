@@ -28,11 +28,11 @@ Summary: Drafted professional emails for academic extensions and internship inqu
 Task 5: Cybercrime Awareness
 Objective: Research and advocate for online safety.
 Summary: Conducted a case study on Phishing and created a detailed safety guide focusing on UPI and Financial security for Indian students.
-Project LinksLinkedIn Profile: [Paste your LinkedIn URL here]
-GitHub Profile: [Paste your GitHub URL here]
-Kaggle Profile: [Paste your Kaggle URL here]
-HackerRank Profile: [Paste your HackerRank URL here]
-Digital Literacy Quiz (Google Form): [Paste your Google Form Link here]
+Project Links LinkedIn Profile: [https://www.linkedin.com/in/samudrala-manjunadh/]
+GitHub Profile: [https://github.com/SamudralaManjunadh]
+Kaggle Profile: [https://www.kaggle.com/samudralamanjunadh]
+HackerRank Profile: [https://www.hackerrank.com/profile/samudralamanjun1]
+Digital Literacy Quiz (Google Form): [https://forms.gle/HN5Ua2Vs1dJxHJH87 ]
  Tools & Technologies
 Programming: Python (HackerRank)
 Collaboration: Google Workspace (Forms, Sheets, Gmail)
@@ -40,7 +40,5 @@ Design: Canva / Infographic Tools
 Version Control: GitHub
 Conclusion
 Mastering digital literacy is a continuous journey. Through this project, I have not only improved my own technical skills but also prepared resources to help others navigate the digital landscape safely and professionally.
-
 Course Coordinator: VITyarthi E-Learning Platform
-
 Submission Date: March 25, 2026
